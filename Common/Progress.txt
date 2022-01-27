@@ -1,0 +1,22 @@
++------------+------------------------------+-----------------------------------+
+| Exercise 1 | Hierarchical                 | Not Working                       |
+|            | K-means                      | DONE                              |
+|            | Girvan-Newman                | DONE                              |
+|            | Spectral                     | DONE (very slow)                  |
++------------+------------------------------+-----------------------------------+
+| Exercise 2 | Top 500 Degree               | DONE                              |
+|            | Top 500 Closeness            | DONE                              |
+|            | Top 500 Betweenness          | DONE                              |
+|            | Top 500 Page rank            | To do                             |
+|            | Top 500 HITS                 | To do                             |
++------------+------------------------------+-----------------------------------+
+| Exercise 3 | Min-cut                      | DONE                              |
++------------+------------------------------+-----------------------------------+
+| Exercise 4 | Logistic Regression          | DONE                              |
+|            | Logistic Regression w/ fix   | DONE                              |
+|            | Linear Regression            | DONE                              |
+|            | Linear Regression w/ fix     | DONE                              |
+|            | Lasso regression             | DONE                              |
+|            | Ridge regression             | DONE                              |
+|            | Other Methods                | Evaluating                        |
++------------+------------------------------+-----------------------------------+
